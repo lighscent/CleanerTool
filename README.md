@@ -3,6 +3,9 @@
 
 Ce Tool permet de supprimer rapidement les fichier inutiles de votre PC sans affecter les logiciels installés
 
+InfinityDev™️ (Team Dev) [Fonda]
+https://discord.gg/JCC4TjYbSH
+
 ## Screenshots
 
 ![screen0](https://cdn.discordapp.com/attachments/772460120781226024/968609212794023976/unknown.png)
