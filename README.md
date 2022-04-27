@@ -6,22 +6,16 @@ Ce Tool permet de supprimer rapidement les fichier inutiles de votre PC sans aff
 InfinityDev™️ (Team Dev) [Fonda]
 https://discord.gg/JCC4TjYbSH
 
-## Screenshots
-
-1- Extraire ici le fichier
-.
+## 1- Extraire ici le fichier
 ![screen0](https://cdn.discordapp.com/attachments/772460120781226024/968609212794023976/unknown.png)
 
-2- Ouvrir l'application en tant qu'Administrateur
-.
+## 2- Ouvrir l'application en tant qu'Administrateur
 ![screen1](https://cdn.discordapp.com/attachments/772460120781226024/968608522323521597/unknown.png)
 
-3- Entrer le Mot de Passe donné suite à l'achat
-.
+## 3- Entrer le Mot de Passe donné suite à l'achat
 ![screen2](https://cdn.discordapp.com/attachments/772460120781226024/968609005100470302/unknown.png)
 
-4- Suivre les indications
-.
+## 4- Suivre les indications
 ![screen3](https://cdn.discordapp.com/attachments/772460120781226024/968609691838058537/unknown.png)
 
 ## Authors
