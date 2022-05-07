@@ -6,16 +6,10 @@ Ce Tool permet de supprimer rapidement les fichier inutiles de votre PC sans aff
 InfinityDev™️ (Team Dev) [Fonda]
 https://discord.gg/JCC4TjYbSH
 
-## 1- Extraire ici le fichier
-![screen0](https://cdn.discordapp.com/attachments/772460120781226024/968609212794023976/unknown.png)
-
-## 2- Ouvrir l'application en tant qu'Administrateur
+## 1- Ouvrir l'application en tant qu'Administrateur
 ![screen1](https://cdn.discordapp.com/attachments/772460120781226024/968608522323521597/unknown.png)
 
-## 3- Entrer le Mot de Passe donné suite à l'achat
-![screen2](https://cdn.discordapp.com/attachments/772460120781226024/968609005100470302/unknown.png)
-
-## 4- Suivre les indications
+## 2- Suivre les indications
 ![screen3](https://cdn.discordapp.com/attachments/772460120781226024/968609691838058537/unknown.png)
 
 ## Authors
@@ -32,10 +26,9 @@ Pour toute aide, envoyer un mail à contact@infinitydev.xyz.
 
 #### Le logiciel est Safe ?
 
-Oui, totalement sécurisé. 
-Nous pouvons vous donner le code une fois le logiciel acheté.
+Oui, totalement safe
+
 
 #### Il est disponible sur Linux ?
 
 Non, pas encore mais se ne saurait tarder.
-
