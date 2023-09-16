@@ -1,22 +1,22 @@
-rem Ce script a été dev par InfinityDev - Update in 2022
-rem email: contact@infinitydev.xyz
+rem Ce script a été dev par Azukiov - Update in 2023
+rem Discord: https://discord.gg/YfdEgx5yzF
 cls
 
 @echo off
-title InfinityDev - Cleaner Tool
+title Azukiov - Cleaner Tool
 timeout /t 1 /nobreak > NUL
 openfiles > NUL 2>&1
 if %errorlevel%==0 (
     color b
-    echo InfinityDev - Cleaner Windows
+    echo Azukiov - Cleaner Windows
     echo. 
-    echo Site: www.infinitydev.xyz
+    echo Discord: https://discord.gg/YfdEgx5yzF
     echo.
     echo Appuyez sur un touche pour lancer le Tool
     pause > NUL
 ) else (
     color c
-    echo InfinityDev - Cleaner Windows
+    echo Azukiov - Cleaner Windows
     echo.  
     echo Vous devez lancer le Tool en Administrateur.
     echo Faites Click Droit et  ^'Run as Administrator^'.
@@ -56,7 +56,7 @@ md %AppData%\Temp
 md %HomePath%\AppData\LocalLow\Temp
 
 echo.
-echo InfinityDev - Cleaner Windows
+echo Azukiov - Cleaner Windows
 echo.
 echo Les fichiers inutiles de votre PC ont ete supprimes
 echo Appuyez sur un touche pour fermer le Tool
