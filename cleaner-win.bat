@@ -6,10 +6,10 @@ setlocal enabledelayedexpansion
 :: Vérification des droits d'administration
 net session >nul 2>&1
 if %errorlevel% == 0 (
-    echo Droits d'administration accordés.
+    echo Droits d'administration accordes.
 ) else (
     echo Vous devez lancer le Tool en tant qu'administrateur.
-    echo Faites un clic droit sur le fichier batch et choisissez "Exécuter en tant qu'administrateur".
+    echo Faites un clic droit sur le fichier batch et choisissez "Executer en tant qu'administrateur".
     pause
     exit /b
 )
